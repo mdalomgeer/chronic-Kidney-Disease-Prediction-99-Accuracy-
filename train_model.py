@@ -8,9 +8,8 @@ This script demonstrates the complete machine learning pipeline including:
 - Model training
 - Evaluation and visualization
 
-Author: [Your Name]
-Institution: [Your University]
-License: MIT
+Author: Md Alomgeer Hussein
+Institution: University of Maryland Baltimore County
 """
 
 import os

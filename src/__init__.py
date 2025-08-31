@@ -10,8 +10,8 @@ License: MIT
 """
 
 __version__ = "1.0.0"
-__author__ = "[Your Name]"
-__email__ = "[your.email@university.edu]"
+__author__ = "Md Alomgeer Hussein"
+__email__ = "mdalomh1@umbc.edu"
 
 from .preprocessing import preprocess_data, handle_missing_values, encode_categorical
 from .feature_engineering import create_features, select_features

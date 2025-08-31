@@ -5,9 +5,8 @@ Test Setup Script for Chronic Kidney Disease Prediction Project
 This script tests the basic setup and functionality of the project.
 Run this to verify that everything is working correctly.
 
-Author: [Your Name]
-Institution: [Your University]
-License: MIT
+Author: Md Alomgeer Hussein
+Institution: University of Maryland Baltimore County
 """
 
 import sys

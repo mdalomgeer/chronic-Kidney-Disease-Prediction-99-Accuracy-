@@ -9,12 +9,12 @@ with open("requirements.txt", "r", encoding="utf-8") as fh:
 setup(
     name="ckd-prediction",
     version="1.0.0",
-    author="[Your Name]",
-    author_email="[your.email@university.edu]",
+    author="Md Alomgeer Hussein",
+    author_email="mdalomh1@umbc.edu",
     description="Chronic Kidney Disease Prediction using Machine Learning with 99% Accuracy",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/chronic-kidney-disease-prediction",
+    url="https://github.com/mdalomgeer/chronic-Kidney-Disease-Prediction-99-Accuracy-",
     packages=find_packages(),
     classifiers=[
         "Development Status :: 4 - Beta",

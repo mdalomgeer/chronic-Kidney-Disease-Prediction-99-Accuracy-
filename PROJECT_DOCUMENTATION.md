@@ -670,7 +670,7 @@ If you use this work in your research, please cite:
 ```bibtex
 @inproceedings{mdalomgeer2021chronic,
   title={Chronic Kidney Disease Prediction using Machine Learning},
-  author={[Your Name]},
+  author={Md Alomgeer Hussein},
   booktitle={IEEE International Conference on Advanced Computing and Communication Systems (ICACCS)},
   year={2021},
   doi={10.1109/ICACCS51430.2021.9441868}
@@ -679,7 +679,7 @@ If you use this work in your research, please cite:
 
 ---
 
-**Last Updated**: [Current Date]  
+**Last Updated**: January 2024  
 **Version**: 1.0.0  
-**Maintainer**: [Your Name]  
-**Contact**: [your.email@university.edu]
+**Maintainer**: Md Alomgeer Hussein  
+**Contact**: mdalomh1@umbc.edu

@@ -1,16 +1,16 @@
 # Chronic Kidney Disease Prediction with 99% Accuracy
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
 [![DOI](https://img.shields.io/badge/DOI-10.1109/ICACCS51430.2021.9441868-blue.svg)](https://ieeexplore.ieee.org/abstract/document/9315878)
 
 ## 🎯 Project Overview
 
-This repository presents a comprehensive machine learning approach for **Chronic Kidney Disease (CKD) prediction** achieving **99% accuracy**. The project demonstrates advanced data preprocessing, feature engineering, and ensemble learning techniques applied to medical diagnostics.
+This is my research project on **Chronic Kidney Disease (CKD) prediction** using machine learning, achieving **99% accuracy**. I developed this during my studies at the University of Maryland Baltimore County, focusing on creating a robust and clinically-relevant prediction model.
 
 ## 📊 Research Significance
 
-Chronic Kidney Disease affects approximately **10% of the global population** and early detection is crucial for effective treatment. This research contributes to:
+Chronic Kidney Disease affects approximately **10% of the global population** and early detection is crucial for effective treatment. My research focuses on:
 - **Medical AI Diagnostics**: Automated screening for early CKD detection
 - **Healthcare Accessibility**: Reducing dependency on expensive diagnostic procedures
 - **Clinical Decision Support**: Providing reliable predictions for healthcare professionals
@@ -183,20 +183,9 @@ This work has been presented at:
 - **Real-time Processing**: Stream processing capabilities
 - **Mobile Deployment**: Edge computing applications
 
-## 👥 Contributing
 
-We welcome contributions from the research community! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details.
 
-### How to Contribute
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Add tests if applicable
-5. Submit a pull request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
@@ -207,9 +196,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-- **Author**: [Your Name]
-- **Email**: [your.email@university.edu]
-- **Institution**: [Your University]
+- **Author**: Md Alomgeer Hussein
+- **Email**: mdalomh1@umbc.edu
+- **Institution**: University of Maryland Baltimore County
 - **Research Profile**: [Google Scholar/ResearchGate Link]
 
 ## 📊 Citation
@@ -219,7 +208,7 @@ If you use this work in your research, please cite:
 ```bibtex
 @inproceedings{mdalomgeer2021chronic,
   title={Chronic Kidney Disease Prediction using Machine Learning},
-  author={[Your Name]},
+  author={Md Alomgeer Hussein},
   booktitle={IEEE International Conference on Advanced Computing and Communication Systems (ICACCS)},
   year={2021},
   doi={10.1109/ICACCS51430.2021.9441868}
